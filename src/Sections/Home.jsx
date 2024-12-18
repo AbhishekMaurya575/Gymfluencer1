@@ -5,22 +5,22 @@ const Section1 = () => {
     <section className="relative bg-black text-white min-h-screen ">
     <div
       className="absolute inset-0 bg-cover bg-center opacity-30"
-      style={{ backgroundImage: "url('public/asset 3.jpeg')" }}
+      style={{ backgroundImage: "url('public/assets/asset 3.jpeg')" }}
     ></div>
 
     <div className="relative   justify-center items-center w-full h-screen flex flex-col">
       <div className="flex  text-[19px]  p-2 px-0 w-[330px] h-[44px] rounded-full bg-black/90">
         <div className="justify-start bg-purple-400 float-start ">
           <img
-            src="public\asset 4.png"
+            src="public\assets\asset 4.png"
             className="bg-red absolute  h-[28px] ml-2"
           />
           <img
-            src="public\asset 5.png"
+            src="public\assets\asset 5.png"
             className="absolute ml-[26px] h-[28px]"
           />
           <img
-            src="public\asset 6.png"
+            src="public\assets\asset 6.png"
             className="absolute ml-[46px] h-[28px]"
           />
         </div>
