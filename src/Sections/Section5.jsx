@@ -5,7 +5,7 @@ const Section5 = () => {
     <div className="relative w-full h-full">
       <div
         className="absolute inset-0 bg-cover bg-center opacity-90"
-        style={{ backgroundImage: "url('public\asset 20.png')" }}
+        style={{ backgroundImage: "url('public\assets\asset 20.png')" }}
       ></div>
       <div className="relative flex flex-col lg:flex-row bg-black/80 w-full  sm:justify-around justify-center items-center">
         <div className="flex bg-none lg:mt-[150px] flex-col items-center justify-center p-0 w-[90vw] md:w-[90vw] lg:w-[420px] lg:block h-[433px]">
@@ -70,15 +70,15 @@ const Section5 = () => {
         </div>
         <div className="sm:w-[640px] w-[90vw] h-[478px] overflow-hidden">
           <img
-            src="public\asset 21.png"
+            src="public\assets\asset 21.png"
             className="image w-[640px] h-[394px]"
           />
           <img
-            src="public\asset 22.png"
+            src="public\assets\asset 22.png"
             className="image w-[640px] h-[394px]"
           />
           <img
-            src="public\asset 23.png"
+            src="public\assets\asset 23.png"
             className="image w-[640px] h-[394px]"
           />
         </div>
