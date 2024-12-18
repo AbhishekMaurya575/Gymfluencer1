@@ -6,7 +6,7 @@ const Section4 = () => {
       <div className="bg-black">
         <div className="bg-black flex items-center justify-center pt-8 mb-12">
           <img
-            src="public\asset 7.png"
+            src="public\assets\asset 7.png"
             className="w-[90vw] h-[300px] sm:w-[75vw] md:h-[350px] lg:h-[70vh] lg:w-[50vw] rounded-2xl"
           />
           <div className="flex items-center justify-center hover:bg-black/10  absolute w-[90vw] h-[300px] sm:w-[75vw] md:h-[350px] lg:h-[70vh] lg:w-[50vw] rounded-2xl">
@@ -58,7 +58,7 @@ const Section4 = () => {
               TRACK
             </div>
             <img
-              src="public\asset 8.png"
+              src="public\assets\asset 8.png"
               className="h-full w-full object-cover transition-transform duration-300 hover:scale-105 z-10 opacity-65"
             />
           </div>
@@ -71,7 +71,7 @@ const Section4 = () => {
             </div>
 
             <img
-              src="public\asset 9.png"
+              src="public\assets\asset 9.png"
               className="h-full w-full object-cover transition-transform duration-300 hover:scale-105 opacity-65"
             />
           </div>
@@ -84,7 +84,7 @@ const Section4 = () => {
             </div>
 
             <img
-              src="public\asset 10.png"
+              src="public\assets\asset 10.png"
               className="h-full w-full object-cover transition-transform duration-300 hover:scale-105 opacity-65"
             />
           </div>
@@ -97,7 +97,7 @@ const Section4 = () => {
             </div>
 
             <img
-              src="public\asset 11.png"
+              src="public\assets\asset 11.png"
               className="h-full w-full object-cover transition-transform duration-300 hover:scale-105 opacity-65"
             />
           </div>
@@ -110,7 +110,7 @@ const Section4 = () => {
             </div>
 
             <img
-              src="public\asset 12.png"
+              src="public\assets\asset 12.png"
               className="h-full w-full object-cover transition-transform duration-300 hover:scale-105 opacity-65"
             />
           </div>
@@ -123,7 +123,7 @@ const Section4 = () => {
                 "Space Grotesk,'Space Grotesk Placeholder', sans-serif",
             }}
           >
-            <img src="public\asset 13.svg" className="w-[30px]" />
+            <img src="public\assets\asset 13.svg" className="w-[30px]" />
             Our Benefits
           </div>
           <div
@@ -148,12 +148,12 @@ const Section4 = () => {
           </div>
           <div className="hidden flex-col items-center justify-center  mt-16 w-full h-full  md:flex lg:hidden">
             <img
-              src="public\asset 16.png"
+              src="public\assets\asset 16.png"
               className="w-[320px] h-[612px]"
               alt=""
             />
             <img
-              src="public\asset 17.png"
+              src="public\assets\asset 17.png"
               className="sm:w-[290px] w-[278px]  h-[585px] mt-2  ml-1 rounded-[32px] absolute"
             />
           </div>
@@ -161,19 +161,19 @@ const Section4 = () => {
             <div className="flex flex-col items-center justify-center ">
               <div className="flex flex-col items-center justify-center mb-4 mt-4 w-full h-full md:hidden">
                 <img
-                  src="public\asset 16.png"
+                  src="public\assets\asset 16.png"
                   className="w-[309px] h-[612px]"
                   alt=""
                 />
                 <img
-                  src="public\asset 17.png"
+                  src="public\assets\asset 17.png"
                   className="sm:w-[281px] w-[278px] sm:h-[599px] h-[590px] mt-2 sm:ml-4 ml-2 rounded-[32px] absolute"
                 />
               </div>
 
               <div className="bg-gray-950 mt-2 p-4 w-[90vw] mb-2 lg:w-[426px] md:w-[380px] h-[280px] justify-around text-left px-8 rounded-[20px] border-2 border-gray-800">
                 <div className="bg-gray-900 p-2 w-[50px] h-[50px] rounded-xl border-[1px] border-gray-950 mb-4">
-                  <img src="public\asset 14.svg" />
+                  <img src="public\assets\asset 14.svg" />
                 </div>
                 <div
                   className="text-[22px] mb-4"
@@ -198,7 +198,7 @@ const Section4 = () => {
               </div>
               <div className="bg-gray-950 mt-2 p-4 w-[90vw] mb-2 lg:w-[426px] md:w-[380px] h-[280px] justify-around text-left px-8 rounded-[20px] border-2 border-gray-800">
                 <div className="bg-gray-900 p-2 w-[50px] h-[50px] rounded-xl border-[1px] border-gray-950 mb-4">
-                  <img src="public\asset 15.svg" />
+                  <img src="public\assets\asset 15.svg" />
                 </div>
                 <div
                   className="text-[22px] mb-4"
@@ -224,19 +224,19 @@ const Section4 = () => {
             </div>
             <div className="hidden flex-col items-center justify-center mb-4 mt-4 lg:flex">
               <img
-                src="public\asset 16.png"
+                src="public\assets\asset 16.png"
                 className="w-[309px] h-[612px]"
                 alt=""
               />
               <img
-                src="public\asset 17.png"
+                src="public\assets\asset 17.png"
                 className="w-[281px]  h-[593px]  mt-2 ml-1 rounded-[32px] absolute"
               />
             </div>
             <div className="flex flex-col items-center justify-center">
               <div className="bg-gray-950 mt-2 p-4 w-[90vw] mb-2 lg:w-[426px] md:w-[380px] h-[280px] justify-around text-left px-8 rounded-[20px] border-2 border-gray-800">
                 <div className="bg-gray-900 p-2 w-[50px] h-[50px] rounded-xl border-[1px] border-gray-950 mb-4">
-                  <img src="public\asset 18.svg" />
+                  <img src="public\assets\asset 18.svg" />
                 </div>
                 <div
                   className="text-[22px] mb-4"
@@ -261,7 +261,7 @@ const Section4 = () => {
               </div>
               <div className="bg-gray-950 mt-2 p-4 w-[90vw]  mb-2 lg:w-[426px] md:w-[380px] h-[330px] sm:h-[280px] justify-around text-left px-8 rounded-[20px] border-2 border-gray-800">
                 <div className="bg-gray-900 p-2 w-[50px] h-[50px] rounded-xl border-[1px] border-gray-950 mb-4">
-                  <img src="public\asset 19.svg" />
+                  <img src="public\assets\asset 19.svg" />
                 </div>
                 <div
                   className="text-[22px] mb-4"
