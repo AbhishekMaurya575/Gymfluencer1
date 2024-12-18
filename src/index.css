@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes scroll-left {
+    0% {
+      transform: translateX(100%);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+  
+  @keyframes scroll-right {
+    0% {
+      transform: translateX(-100%);
+    }
+    100% {
+      transform: translateX(100%);
+    }
+  }
+  
+  .animate-scroll-left {
+    display: inline-block;
+    animation: scroll-left 30s linear infinite;
+  }
+  
+  .animate-scroll-right {
+    display: inline-block;
+    animation: scroll-right 30s linear infinite;
+  }
+  
